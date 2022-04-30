@@ -1,6 +1,8 @@
 
 This is lab created by educational purpose of web application pentesting.
 
+A weak password might be very short or only use alphanumberic characters, making decryption simple. A weak password can also be one that is easily guessed by someone profiling the user, such as a birthday, nickname, address, name of a pet or relative, or a common word such as God, love, money or password.
+
 
 HACK ADMIN PANEL
 
