@@ -1,5 +1,5 @@
 This lab is created by ghanimah in canada in order to capture the flag Hunt down social media accounts by username across social networks .
-Here i have attahed snapshot to over how sherlock is installed from github and how it perform step by step. 
+Here i have attahed snapshot to overlook that how sherlock is installed from github and how it perform step by step. 
 
 
 You can seen below commands  run sherlock in Ubuntu OS for hunting user profile 
