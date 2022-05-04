@@ -3,7 +3,7 @@ This lab is created by ghanimah in canada for education purpose in order to capt
 What is certificate handshake?
 The SSL or TLS handshake enables the SSL or TLS client and server to establish the secret keys with which they communicate. This section provides a summary of the steps that enable the SSL or TLS client and server to communicate with each other. Agree on the version of the protocol to use.
 
-Client Certificate Authentication is a mutual certificate based authentication, where the client provides its Client Certificate to the Server to prove its identity. This happens as a part of the SSL Handshake (it is optional). B 
+Client Certificate Authentication is a mutual certificate based authentication, where the client provides its Client Certificate to the Server to prove its identity. This happens as a part of the SSL Handshake.
 
 Run the below command
 openssl s_client -showcerts -servername domain -connect domain:443
