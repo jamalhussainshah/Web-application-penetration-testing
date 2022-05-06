@@ -8,7 +8,13 @@ Client Certificate Authentication is a mutual certificate based authentication, 
 Run the below command
 openssl s_client -showcerts -servername domain -connect domain:443
 
+# pentools
+GetCertNames:
 
+Takes targets (-t) in IP, FQDN, or CIDR format and combines them with ports (-p) and extracts the CN and the Subject Altrnate Names from the certificate. By default, the script will randomize the host and ports but it can be disabled with -r. The -v option can be used to show the verbose actions.
+
+
+What is SSL Handshake ?
 
 SSL Handshake
 
