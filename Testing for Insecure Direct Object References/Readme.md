@@ -31,7 +31,7 @@ The Value of a Parameter Is Used Directly to Perform an Operation in the System
 # Sample request:
 
 http://doo.nor/changepassword?user=someuser
-http://doo.nor/changepassword?user=someuser 
+ 
 
 
 In this case, the value of the user parameter is used to tell the application for which user it should change the password. In many cases this step will be a part of a wizard, or a multi-step operation. In the first step the application will get a request stating for which user's password is to be changed, and in the next step the user will provide a new password (without asking for the current one).
