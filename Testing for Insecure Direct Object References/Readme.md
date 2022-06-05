@@ -1,7 +1,7 @@
 # Testing for Insecure Direct Object References 
 
 
-This lab is created by ghanimah lab (Canadian cyber security practice platform) for testing for insure Direct object references.
+This lab is created by ghanimah lab (Canadian cyber security online practice platform) for testing for insure Direct object references.
 
 This below description is written by jamal hussain shah for educational purpose. 
 
