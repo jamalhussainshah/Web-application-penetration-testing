@@ -3,8 +3,6 @@
 The WSTG GHANIMA LAB is created by GHANIMAH for testing session management schema.
 
 
-# Descriptions
-
 One of the core components of any web-based application is the mechanism by which it controls and maintains the state for a user interacting with it. To avoid continuous authentication for each page of a website or service, web applications implement various mechanisms to store and validate credentials for a pre-determined timespan. These mechanisms are known as Session Management.
 
 In this test, the tester wants to check that cookies and other session tokens are created in a secure and unpredictable way. An attacker who is able to predict and forge a weak cookie can easily hijack the sessions of legitimate users.
@@ -192,3 +190,6 @@ Tools
     OWASP Zed Attack Proxy Project (ZAP) - features a session token analysis mechanism.
     Burp Sequencer
     YEHG's JHijack
+    
+    
+    Written by Jamal Hussain Shah 
