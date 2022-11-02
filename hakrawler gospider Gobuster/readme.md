@@ -28,10 +28,10 @@ hakrawler is a Go web crawler designed for easy, quick discovery of endpoints an
 ...
 It can be used to discover :
 
-    Forms.
-    Endpoints.
-    Subdomains.
-    Related domains.
-    JavaScript files.
+Forms.
+Endpoints.
+Subdomains.
+Related domains.
+JavaScript files.
     
 ![Screenshot_2022-11-01_21-55-34](https://user-images.githubusercontent.com/95676591/199415456-1a1603ff-c5a4-45f0-8175-47c4c50d116e.png)
