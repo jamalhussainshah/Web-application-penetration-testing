@@ -20,8 +20,8 @@ gospider
     Crawl multiple sites in parallel
     Random mobile
     
-    ![Screenshot_2022-11-01_22-28-07](https://user-images.githubusercontent.com/95676591/199415023-eaa4e508-9593-433e-af64-580efec1b0b7.png)
-    ![Screenshot_2022-11-01_22-00-02](https://user-images.githubusercontent.com/95676591/199415200-58399e06-416d-45a4-9679-f73ba16cd38d.png)
+![Screenshot_2022-11-01_22-28-07](https://user-images.githubusercontent.com/95676591/199415023-eaa4e508-9593-433e-af64-580efec1b0b7.png)
+![Screenshot_2022-11-01_22-00-02](https://user-images.githubusercontent.com/95676591/199415200-58399e06-416d-45a4-9679-f73ba16cd38d.png)
 
     
 hakrawler is a Go web crawler designed for easy, quick discovery of endpoints and assets within a web application.
