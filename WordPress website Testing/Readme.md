@@ -12,8 +12,10 @@ To minimize the risk of flaws in WordPress testing, it is important to use a com
 In general, staying informed about vulnerabilities and taking proactive steps to address them is crucial for maintaining the security and integrity of any software system, including those built on the WordPress platform. Report below to identified vulnerabilities associated with CVEs.
 
 Jamal Hussain Shah 
-   Cyber security consultant
-   www.Singtrade.net
+  
+  Cyber security consultant
+  
+  Website:www.Singtrade.net
 
 ![wp](https://user-images.githubusercontent.com/95676591/226877106-3bcfc75a-7167-4a87-9311-1efbb0a00c98.png)
 
